@@ -1,6 +1,7 @@
 # 📊 Amazon Products Sales Analysis Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Images/dashboard_preview.png)
+![Dashboard Filters](Images/dashboard_filters.png)
 
 ---
 
@@ -37,8 +38,16 @@ Created custom time-intelligence DAX measures:
 
 ---
 
-## 📁 Repository Structure
-├── Amazon_Sales_Analysis.pbix  # Power BI Source File
-├── Data/                       # Raw Datasets
-├── Images/                     # Screenshots and visual assets
-└── README.md                   # Project documentation
+### 📁 Repository Structure
+
+```text
+.
+├── Amazon_Sales_Analysis.pbix   # Power BI Source File
+├── Data/
+│   └── Amazon_Combined_Data.xlsx# Raw Dataset
+├── Images/
+│   ├── Amazon_Background.jpg    # Canvas Background Asset
+│   ├── dashboard_preview.png    # Main Screenshot
+│   └── dashboard_filters.png    # Interactive Filters
+└── README.md                    # Documentation
+```
