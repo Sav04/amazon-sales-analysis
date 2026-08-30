@@ -1,6 +1,6 @@
 # 📊 Amazon Products Sales Analysis Dashboard
 
-![Dashboard Preview]()
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
